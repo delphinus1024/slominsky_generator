@@ -38,7 +38,7 @@ Parameter conditions must be below.
 
 generates following result.
 
-<img src="https://raw.githubusercontent.com/wiki/delphinus1024/slominsky_generator/image/result.png" style="width: 600px;"/>
+<img src="result.png" style="width: 600px;"/>
 
 ## Installation
 
