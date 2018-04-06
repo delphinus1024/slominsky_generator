@@ -19,7 +19,7 @@ Note that this program supports only "Interpolation".
 ## Requirement
 
 - Python3
-- music21 ver5
+- music21 ver5 (w/ lilypond or musescore)
 - itertools
 
 ## Usage
